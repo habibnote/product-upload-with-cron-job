@@ -1,0 +1,21 @@
+.woo-apis-form-warpper{
+    margin-top: 30px;
+}
+.woo-apis-form-warpper h2{
+    text-transform: capitalize;
+    font-weight: bold;
+    color: #222;
+    background-color: #ffffff;
+    padding: 20px;
+    font-weight: 600;
+    font-size: 22px;
+}
+.woo-apis-form-warpper button{
+    padding: 10px 30px;
+    border:none;
+    background: #007cba;
+    cursor: pointer;
+    font-size: 16px;
+    color: #fff;
+    border-radius: 5px;
+}
